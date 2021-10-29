@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "283867423077",
+    "firebase_url": "https://movapp-89006-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "movapp-89006",
+    "storage_bucket": "movapp-89006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283867423077:android:a83413bf8529338d46c18c",
+        "android_client_info": {
+          "package_name": "com.codeurfuture.mov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283867423077-mvd9sgehqbe8m1fi92sqmne4e8jgrtd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOUnddKOvPYMFkytWEKUzhxAttAobVC7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283867423077-mvd9sgehqbe8m1fi92sqmne4e8jgrtd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
